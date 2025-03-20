@@ -23,7 +23,7 @@ https://github.com/sambaiahk78/Retail-sales-analysis/blob/402c79b688911d963d2e5c
 (Add screenshot link here.)
 
 ### Monthly Sales Trend
-(Add screenshot link here.)
+https://github.com/sambaiahk78/Retail-sales-analysis/blob/fd9b6ea986c64c03a3414c0328fe534718540ce1/monthly%20wise%20sales%202025-03-20%20120618.png
 
 ## Tools Used
 - Python
