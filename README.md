@@ -20,7 +20,7 @@ https://github.com/sambaiahk78/Retail-sales-analysis/blob/402c79b688911d963d2e5c
 https://github.com/sambaiahk78/Retail-sales-analysis/blob/402c79b688911d963d2e5c2e72df97f2947c349d/gender%20wise%20sales%202025-03-20%20120528.png
 
 ### Age-wise Sales
-(Add screenshot link here.)
+https://github.com/sambaiahk78/Retail-sales-analysis/blob/7a6495844fd4d354799c48f8e3a7b38d8e3e376a/age%20wise%20sales%202025-03-20%20120605.png
 
 ### Monthly Sales Trend
 https://github.com/sambaiahk78/Retail-sales-analysis/blob/fd9b6ea986c64c03a3414c0328fe534718540ce1/monthly%20wise%20sales%202025-03-20%20120618.png
