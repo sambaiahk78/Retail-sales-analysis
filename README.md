@@ -17,7 +17,7 @@ Analyzed retail sales data to identify trends and insights using Python, Pandas,
 category wise sales2025-03-20 120512.png
 
 ### Gender-wise Sales
-(Add screenshot link here.)
+https://github.com/sambaiahk78/Retail-sales-analysis/blob/402c79b688911d963d2e5c2e72df97f2947c349d/gender%20wise%20sales%202025-03-20%20120528.png
 
 ### Age-wise Sales
 (Add screenshot link here.)
