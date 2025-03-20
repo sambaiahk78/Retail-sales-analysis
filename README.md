@@ -32,4 +32,4 @@ https://github.com/sambaiahk78/Retail-sales-analysis/blob/fd9b6ea986c64c03a3414c
 - Matplotlib
 
 ## Dataset
-The dataset used for this analysis is available here: [retail_sales_dataset.csv](retail_sales_dataset.csv)
+The dataset used for this analysis is available here: https://github.com/sambaiahk78/Retail-sales-analysis/blob/3598a82daf2b49e0024754840b4b409a46e8bd22/retail_sales_dataset%20(1).csv
